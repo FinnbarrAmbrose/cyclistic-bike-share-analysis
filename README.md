@@ -1,2 +1,10 @@
-# cyclistic-bike-share-analysis
-Exploratory data analysis of Cyclistic bike-share data to understand differences between casual riders and annual members.
+# Cyclistic Bike-Share Analysis
+
+This project analyzes bike-share usage data from Cyclistic to understand how casual riders and annual members use the service differently.
+
+The goal is to support marketing strategies aimed at converting casual riders into annual members.
+
+## Dataset
+- Source: Divvy bike-share public trip data
+- Time period: May 2024
+
